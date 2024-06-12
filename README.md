@@ -1,1 +1,1 @@
-# CodXo_Python_Intern
+# Number Guessing Game
